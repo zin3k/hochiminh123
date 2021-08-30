@@ -1,0 +1,13 @@
+{
+    "name": "Virtual Network Computing BY AnhDH ( VPS )",
+    "description": "Deploy noVNC to Heroku.",
+    "keywords": [
+        "VNC",
+        "Docker",
+        "noVNC"
+    ],
+    "env": {},
+    "website": "",
+    "repository": "https://github.com/anhdhbn/heroku-novnc.git",
+    "stack": "container"
+}
